@@ -63,8 +63,8 @@ Player.prototype.update = function() {
     }
     if(this.y == -12) {
         alert("yea! you won!");
-        player.x = 202;
-        player.y = 320;
+        this.x = 202;
+        this.y = 320;
     }
     this.keyPressed = null;
 };
