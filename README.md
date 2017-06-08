@@ -5,6 +5,10 @@ A simple intractive game.
 ## Goal
 The goal is to cross the road. Without colliding to any enemy bug.
 
+## Loading the game
+Open the index.html file in a browser that supports the html5 canvas.
+And Start playing.
+
 ## How to play
 The game is very easy play. Use arrow keys move around.
 
